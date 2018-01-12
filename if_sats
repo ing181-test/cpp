@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  
+  if (true)
+  {
+    cout << "Sant!" << endl;
+    
+  }
+  else if (true) 
+  {
+    
+    if (true)
+      cout << "Sant!" << endl;
+    
+    
+  }
+
+  return 0;
+}
